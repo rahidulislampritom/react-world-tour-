@@ -4,3 +4,13 @@
     padding: 15px;
     border-radius: 15px;
 }
+
+.visited{
+    background-color: skyblue;
+}
+
+.flagCountries{
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+}
